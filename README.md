@@ -23,14 +23,15 @@ Te vinden in: https://imagekit.io/dashboard/developer/api-keys
     
 Installatie
 -----------
-#pip install imagekitio  <-- niet vergeten
+pip install imagekitio  <-- niet vergeten
 
-#pip install qrcode  <-- niet vergeten
+pip install qrcode  <-- niet vergeten
 
 Gebruik
 -------
-app.py <arg> 
-#<arg> = naam van het bestand
+
+app.py <naamvan_bestand> 
+
 
  Voorbeeld: >app.py mijn_plaatje.jpg
   
