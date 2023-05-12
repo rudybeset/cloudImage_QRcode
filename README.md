@@ -5,6 +5,20 @@ Dit is een kleine tool voor een project van de Vughtse programmeerclub
 Nodig: Python 3.10.x
 Extra modules: qrcode en imagekit io
 
+Nodig
+-------
+Een account op https://imagekit.io/
+
+Maak daar een account aan en vul in app.py de volgende velden met je persoonlijke keys:
+
+
+    private_key='private_XXXXXXXXXXXXXXXX',
+    public_key='public_XXXXXXXXXXXXXXXX',
+    url_endpoint='https://ik.imagekit.io/XXXXXXXXXXXXXXXX'
+
+Te vinden in: https://imagekit.io/dashboard/developer/api-keys
+
+    
 Installatie
 -----------
 #pip install imagekitio  <-- niet vergeten
