@@ -24,6 +24,7 @@ Te vinden in: https://imagekit.io/dashboard/developer/api-keys
 Installatie
 -----------
 #pip install imagekitio  <-- niet vergeten
+
 #pip install qrcode  <-- niet vergeten
 
 Gebruik
