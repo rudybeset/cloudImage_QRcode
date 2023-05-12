@@ -6,6 +6,7 @@ Dit is een kleine tool voor een project van de Vughtse programmeerclub
 Nodig
 -------
 Python 3.10.x
+
 Extra modules: qrcode en imagekit io
 
 Een account op https://imagekit.io/
