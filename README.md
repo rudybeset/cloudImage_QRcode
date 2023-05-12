@@ -1,12 +1,13 @@
 # cloudImage_QRcode
-python commandline tool om een plaatje te uploaden naar imagekit, om daarna een QRcode te krijgen van de directe publieke downloadlink.
+python commandline tool om een plaatje te uploaden naar imagekit, Daarna krijg je een QRcode van de directe publieke downloadlink.
 
 Dit is een kleine tool voor een project van de Vughtse programmeerclub 
-Nodig: Python 3.10.x
-Extra modules: qrcode en imagekit io
 
 Nodig
 -------
+Python 3.10.x
+Extra modules: qrcode en imagekit io
+
 Een account op https://imagekit.io/
 
 Maak daar een account aan en vul in app.py de volgende velden met je persoonlijke keys:
